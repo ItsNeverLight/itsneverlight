@@ -2,4 +2,4 @@
 
 Hello everyone!
 
-- I'm thinking of making a game on Unreal Engine 5.
+- I'm making a game on Unreal Engine 5.
